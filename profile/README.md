@@ -10,6 +10,6 @@ We build, fix and maintain websites, online stores and everyday IT setups.
 - Fixes, updates and hosting
 - IT support for small businesses
 
-📍 Jørpeland / Stavanger, Norway
+📍 Stavanger, Norway
 🌐 [voidgarden.no](https://voidgarden.no)
 ✉️ kontakt@voidgarden.no
